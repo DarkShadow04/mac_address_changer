@@ -1,8 +1,8 @@
-# Author             : Dark_Shadow04
-# Github             : https://github.com/DarkShadow04
-# My Blog            : https://arfortech.wordpress.com
-
-# Subcribe my blog for Tools, Tricks & Scripts ^_^
+<b><h2> Author             : Dark_Shadow04 <br>
+ Github             : https://github.com/DarkShadow04 <br>
+ My Blog            : https://arfortech.wordpress.com <br>
+<br>
+ Subcribe my blog for Tools, Tricks & Scripts ^_^ <h2> <br> </b>
 
 <br>
 
