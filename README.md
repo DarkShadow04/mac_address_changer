@@ -4,7 +4,7 @@
  Subcribe my blog for Tools, Tricks & Scripts ^_^ </b>
 
 # mac_address_changer
-It will change MAC Address of specified port address to desired address <br>
+It will change MAC Address of specified port to desired address <br>
 
 # usage
 python3 mac_address_changer.py -i eth0/wlano -m mac-address <br>
