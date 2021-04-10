@@ -9,7 +9,7 @@ It will change MAC Address of specified port to desired address <br>
 # usage
 python3 mac_address_changer.py -i eth0/wlano -m mac-address <br>
 (or) <br>
-sudo python3 mac_address_changer.py -i eth0/wlano -m mac-address
+sudo python3 mac_address_changer.py -i eth0/wlano -m mac-address <br>
 
 <img src="mac_address_changer.png" alt="mac_address_changer">
 
