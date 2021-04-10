@@ -2,7 +2,7 @@
  Github             : https://github.com/DarkShadow04 <br>
  My Blog            : https://arfortech.wordpress.com <br>
 <br>
- Subcribe my blog for Tools, Tricks & Scripts ^_^ <h2> <br> </b>
+ Subcribe my blog for Tools, Tricks & Scripts ^_^ <h2> </b>
 
 # mac_address_changer
 It will change MAC Address of specified port address to desired address <br>
