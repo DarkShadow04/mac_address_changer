@@ -4,8 +4,6 @@
 <br>
  Subcribe my blog for Tools, Tricks & Scripts ^_^ <h2> <br> </b>
 
-<br>
-
 # mac_address_changer
 It will change MAC Address of specified port address to desired address <br>
 
